@@ -12,11 +12,11 @@ React
 
 Javascript 
 
+- [순수 Javascript로 애플 공홈 페이지 만들기](https://github.com/Na-hyunwoo/self_study_apple)
+
 - [Todo List 구현하기](https://github.com/Na-hyunwoo/momentum)
 
 - [영화 앱 만들기](https://github.com/Na-hyunwoo/movie_app_2021)
-
-- [순수 Javascript로 애플 공홈 페이지 만들기](https://github.com/Na-hyunwoo/self_study_apple)
 
 C
 
